@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 ## Overview
 
-This project consists of a Unity SDK for displaying toast messages and a Weather App that retrieves the user's location and displays weather data using the Open-Meteo API. The SDK provides customizable toast messages that can be integrated into Unity applications, while the Weather App utilizes location services and external APIs to fetch and display weather updates.
+This project consists of a Unity SDK for displaying toast messages and a Weather App that retrieves the user's location and displays weather data using the Open-Meteo API. The SDK provides customizable toast messages that can be integrated into Unity applications, while the Weather App utilizes location services and external APIs to fetch and display weather updates. 
 
 ## Features
 
@@ -38,18 +38,21 @@ Toast Message SDK
 
 ## Installation
 
-Clone or download this repository.
+1. Clone or download this repository.
 
-Open the project in Unity Version 2022.3.33f1. If you want to make Android builds select while installation ![alt text](image.png)
+2. Unzip MyProject.zip file
 
-Ensure the required dependencies as TextMeshPro are installed.
+3. Open the project in Unity Version 2022.3.33f1. If you want to make Android builds select while installation ![alt text](image.png)
 
-Install TextMeshPro both packages by navigating to:
-1. Window > TextMeshPro > Import TMP Essential Resources and.
-2. Window > TextMeshPro > Import TMP Examples and Extras (Figure 01).
+  Ensure the required dependencies as TextMeshPro are installed.
+  
+  Install TextMeshPro both packages by navigating to:
+  - Window > TextMeshPro > Import TMP Essential Resources and.
+  - Window > TextMeshPro > Import TMP Examples and Extras (Figure 01).
 
-### Import the Toast Unity Package
-Import the `Toast.unitypackage` into your Unity Project. **Go to Assets** > **Import Package** > **Custom Package**. 
+4. Open "Weather App" Unity scene, Game "Display 1" (1080x1920) or Simulator mode
+
+5. Import the `Toast.unitypackage` into your Unity Project. **Go to Assets** > **Import Package** > **Custom Package**. 
 
 ## Usage
 
