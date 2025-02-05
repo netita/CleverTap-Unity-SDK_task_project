@@ -50,7 +50,7 @@ Toast Message SDK
   - Window > TextMeshPro > Import TMP Essential Resources and.
   - Window > TextMeshPro > Import TMP Examples and Extras (Figure 01).
 
-4. Open "Weather App" Unity scene
+4. Open "Weather App" Unity scene, Game "Display 1" (1080x1920) or Simulator mode
 
 5. Import the `Toast.unitypackage` into your Unity Project. **Go to Assets** > **Import Package** > **Custom Package**. 
 
